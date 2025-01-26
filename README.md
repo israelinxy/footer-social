@@ -14,7 +14,7 @@ Este proyecto presenta un footer enfocado principalmente para que destaquen las 
 ## Tecnologías Utilizadas ⚙️
 
 - [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](src/index.html)
-- [![Css](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=#199af0)](src/style.css/)
+- [![Css](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=1572B6)](src/style.css/)
 
 
 ## Cómo Empezar 🚀
